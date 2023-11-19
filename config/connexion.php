@@ -4,7 +4,7 @@
 $server = 'localhost';
 $userName = "root";
 $pwd = "";
-$db = "ecom1";
+$db = "ecom1_tp2";
 
 $conn = mysqli_connect($server, $userName, $pwd, $db);
 if ($conn) {
